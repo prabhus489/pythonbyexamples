@@ -13,3 +13,5 @@ for num in range(11):
 # 1. Make the above number work for till "16" and "20" rows
 # 2. Try to input a non-integer and see what is happening
 # 3. Fix so that the program does not crashes
+# 4. Read about "for" loop and explain to yourself what it does
+# 5. Read about "range" and explain to yourself what it does
