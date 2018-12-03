@@ -1,0 +1,7 @@
+Install Python in your machine and query the version of the Python installed
+Print the strings - "Hello, World", "Python is a wonderful language", "I am beginner in Python"
+Assign the strings in the previous exercise to a variable and use the variable to print the string
+Get the name of the user as input and greet the user saying "Hi <firstname>"
+Get the name of the user as inputs and greet the user saying "Good Morning, <firstname>" or "Good Afternoon, <firstname>" depending upon the time of the day
+Given the radius of the circle, write a program to print the circumference and area of the circle. Write functions to calculate area and circumference
+Given the area of the circle, write a program to print the radius
