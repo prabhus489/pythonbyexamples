@@ -34,3 +34,5 @@
     For 2001, it should return 2
     For 510, it should return 2
     For 512, it should return 3
+25. Write to program to read a text file and return number of sentences, words and characters in the file
+26.
