@@ -1,0 +1,14 @@
+File Copy Utility
+
+This is a simple tool to copy files from one location to another location. To put it simply, this tool should mimic what
+Unix's "cp" command does - copy a file to another file. The idea is to add new functionality to the tool over a period
+of time when you learn Python. Also, this exercise helps you learn some of core modules of Python.
+
+The tool broadly will have the following functions:
+1. Copy an existing file from one location (directory) to another location.
+2. Throw an error when the source file is not existing
+3. Throw an error when the destination directory is not existing
+4. Ensure that file is copied correctly (meaning the contents of destination file is exactly same as source file). This
+   is very important to ensure integrity of the file
+5. The tool should be used for copying files of all sizes
+6.
