@@ -35,4 +35,6 @@
     For 510, it should return 2
     For 512, it should return 3
 25. Write to program to read a text file and return number of sentences, words and characters in the file
-26.
+26. Write a program to read a webpage (ex: http://www.google.com)
+27. Write TimeServer that uses HTTP (instead of TCP, it should use HTTP)
+28.
