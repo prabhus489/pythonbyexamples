@@ -37,4 +37,4 @@
 25. Write to program to read a text file and return number of sentences, words and characters in the file
 26. Write a program to read a webpage (ex: http://www.google.com)
 27. Write TimeServer that uses HTTP (instead of TCP, it should use HTTP)
-28.
+28. Implement a tiny RESTful Server using Flask that accepts only GET requests. Implement TimeServer as RESTful Service
