@@ -1,0 +1,11 @@
+TopBlogs
+
+Write a tool that gets the digest of the updates from top blogs in specific area
+
+1. Identify list of blogs
+2. Write a daily job that pulls the latest content from multiple blogs
+3. Prepares the digest
+4. Sends out daily updates at scheduled time to all those who subscribed to it
+5. The tool should have the ability to have multiple interest areas and subscribers for each areas.
+6. Each subscriber should get only one update if the subscriber has shown interest in multiple areas
+7. Links should be embeded in the digest for online viewing
