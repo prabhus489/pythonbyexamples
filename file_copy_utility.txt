@@ -11,4 +11,3 @@ The tool broadly will have the following functions:
 4. Ensure that file is copied correctly (meaning the contents of destination file is exactly same as source file). This
    is very important to ensure integrity of the file
 5. The tool should be used for copying files of all sizes
-6.
