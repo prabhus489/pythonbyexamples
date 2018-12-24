@@ -38,3 +38,7 @@
 26. Write a program to read a webpage (ex: http://www.google.com)
 27. Write TimeServer that uses HTTP (instead of TCP, it should use HTTP)
 28. Implement a tiny RESTful Server using Flask that accepts only GET requests. Implement TimeServer as RESTful Service
+29. Write a python function that returns first "N" fibonacci numbers for given "N"
+20. Write a program to find whether the given string is a palindrome or not
+21. Write a program that returns GCD of two numbers
+22. Write a program that returns LCM of two numbers
