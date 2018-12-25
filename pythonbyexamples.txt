@@ -42,3 +42,7 @@
 30. Write a program to find whether the given string is a palindrome or not
 31. Write a program that returns GCD of two numbers
 32. Write a program that returns LCM of two numbers
+33.
+34.
+35.
+36.
