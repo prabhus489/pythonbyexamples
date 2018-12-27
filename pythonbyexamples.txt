@@ -78,3 +78,50 @@
     returns (then prints) an appropriate boolean.
 48. Create Birthday Dictionary and print the date based on the name
 49. Tic tac Toe and Hangman problems
+
+
+[SENTHIL]
+Primarily focussing on interview
+
+
+Basic Python Interview Questions
+1.	What is the difference between list and tuples?
+2.	How is memory managed in Python?
+3.	Explain Inheritance in Python with an example.
+4.	Whenever Python exits, why isn’t all the memory de-allocated?
+5.	What is dictionary in Python?
+6.	What is the process of compilation and linking in python?
+7.	Explain split(), sub(), subn() methods of “re” module in Python.
+8.	What is the difference between range & xrange?
+9.	What is pickling and unpickling?
+10.	Explain the use of try: except raise, and finally, Illustrate the proper use of Python error handling.
+11.	How to retrieve data from a table in MySQL database through Python code? Explain.
+
+
+Python for DataScience
+12.	What is map function in Python?
+13.	How to get indices of N maximum values in a NumPy array?
+14.	How do you calculate percentiles with Python/ NumPy?
+15.	What advantages do NumPy arrays offer over (nested) Python lists?
+16.	Explain the use of decorators.
+17.	What is the difference between NumPy and SciPy?
+18.	How do you make 3D plots/visualizations using NumPy/SciPy?
+19.	Reading Files with Open
+20.	Writing files with Open
+21.	Pandas
+22.	One Dimensional Numpy
+23.	Two Dimensional Numpy
+
+
+
+https://www.edureka.co/blog/interview-questions/python-interview-questions/
+https://www.techbeamers.com/python-interview-questions-programmers/
+https://intellipaat.com/interview-question/python-interview-questions/
+https://mindmajix.com/python-interview-questions
+
+https://stackoverflow.com/questions/8011797/open-read-and-close-a-file-in-1-line-of-code
+https://www.pythonforbeginners.com/files/reading-and-writing-files-in-python
+https://medium.com/@kacawi/tutorial-pandas-data-structures-736ded97842
+https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html
+
+
